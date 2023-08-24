@@ -11,3 +11,9 @@ The code keeps track of consecutive frames where a yawn is detected to avoid fal
 This Yawn Detection and Alert System provides a practical solution for monitoring and addressing drowsiness in real-time, its one of the major part of drowsiness
 
 Very useful in contexts where alertness and attention are required such as driving or working.
+
+**Real Time Yawn Detection after every continue 4 yawns there is a alarm system to alert you**
+
+https://github.com/imadchougle/Real-Time-Yawning-Detection/assets/54437743/3e18b3be-9608-470a-9270-718784ce36c4
+
+![Screenshot (153)](https://github.com/imadchougle/Real-Time-Yawning-Detection/assets/54437743/b0d237dd-2a59-424b-b611-4acaa2288278)
